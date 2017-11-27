@@ -8,8 +8,8 @@ Please use the markdown launguage to make presentations. Whatever you write betw
 
        Ex:
 
-              <section data-markdown>
-                     <script type="text/template">
+       <section data-markdown>
+         <script type="text/template">
 
                      ## Mail Server ( Header 2)
                      ### Mail Server ( Header 3)
@@ -18,10 +18,10 @@ Please use the markdown launguage to make presentations. Whatever you write betw
                      **Italics**
 
 
-        Ip Address : 192.168.3.50  (Bangalore)
+       1. Ip Address : 192.168.3.50  (Bangalore)
 
- </script>
- </section>
+       </script>
+       </section>
  
  
                 <section data-markdown data-separator="---">
